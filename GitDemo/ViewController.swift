@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         var title = "Rakesh"
         // Do any additional setup after loading the view.
     }
+    override func viewDidAppear(_ animated: Bool) {
+        //View did appear
+    }
 
 
 }
